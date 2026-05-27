@@ -2,13 +2,6 @@
   "maxSubAdmins": 10,
   "subAdmins": [
     {
-      "username": "dinghao",
-      "passwordHash": "pbkdf2_sha256$200000$suhAcXch6aOjRQ6jFejQ1w==$7smDEPV0qX05sE4/xde5fOMWZyL00GXnhOfGo5Euy+Q=",
-      "enabled": true,
-      "createdAt": "2026-05-27 23:31:10",
-      "createdBy": "Loezj-0410"
-    },
-    {
       "username": "qfx16888",
       "passwordHash": "pbkdf2_sha256$200000$qAr2Ht7kjUIrJYl860msqQ==$Ad//yst07b3W0FLOFjtHcVQpenQY5wnF6+bU9z9VwhU=",
       "enabled": true,
@@ -16,6 +9,6 @@
       "createdBy": "Loezj-0410"
     }
   ],
-  "updatedAt": "2026-05-28 02:33:18",
+  "updatedAt": "2026-05-28 02:36:26",
   "updatedBy": "Loezj-0410"
 }
