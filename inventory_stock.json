@@ -3508,19 +3508,19 @@
     "code": "26038",
     "color": "",
     "sizes": {
-      "S": 0,
-      "M": 0,
+      "S": 50,
+      "M": 5,
       "L": 0,
       "XL": 0,
       "XXL": 0
     },
-    "total": 0,
+    "total": 55,
     "locations": [
       "2楼从右往左，第1排，第1个货架"
     ],
     "note": "",
-    "updatedAt": "",
-    "updatedBy": ""
+    "updatedAt": "2026-05-28 02:17:36",
+    "updatedBy": "Loezj-0410"
   },
   "26039": {
     "code": "26039",
