@@ -7,8 +7,15 @@
       "enabled": true,
       "createdAt": "2026-05-27 23:31:10",
       "createdBy": "Loezj-0410"
+    },
+    {
+      "username": "qfx16888",
+      "passwordHash": "pbkdf2_sha256$200000$u4j/D8bSyotQYhUZZStL3w==$7X0hJlAC5syOygh1YBOLgE9fme8LwSKNhEMUThEkdqs=",
+      "enabled": true,
+      "createdAt": "2026-05-28 02:22:14",
+      "createdBy": "Loezj-0410"
     }
   ],
-  "updatedAt": "2026-05-27 23:31:11",
+  "updatedAt": "2026-05-28 02:22:15",
   "updatedBy": "Loezj-0410"
 }
