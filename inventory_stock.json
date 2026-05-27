@@ -4160,21 +4160,5 @@
     "note": "",
     "updatedAt": "",
     "updatedBy": ""
-  },
-  "9999": {
-    "code": "9999",
-    "color": "",
-    "sizes": {
-      "S": 0,
-      "M": 0,
-      "L": 0,
-      "XL": 0,
-      "XXL": 0
-    },
-    "total": 0,
-    "locations": [],
-    "note": "",
-    "updatedAt": "2026-05-28 02:50:06",
-    "updatedBy": "Loezj-0410"
   }
 }
