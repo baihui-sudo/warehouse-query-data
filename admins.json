@@ -1,6 +1,14 @@
 {
   "maxSubAdmins": 10,
-  "subAdmins": [],
-  "updatedAt": "",
-  "updatedBy": "system"
+  "subAdmins": [
+    {
+      "username": "dinghao",
+      "passwordHash": "pbkdf2_sha256$200000$suhAcXch6aOjRQ6jFejQ1w==$7smDEPV0qX05sE4/xde5fOMWZyL00GXnhOfGo5Euy+Q=",
+      "enabled": true,
+      "createdAt": "2026-05-27 23:31:10",
+      "createdBy": "Loezj-0410"
+    }
+  ],
+  "updatedAt": "2026-05-27 23:31:11",
+  "updatedBy": "Loezj-0410"
 }
